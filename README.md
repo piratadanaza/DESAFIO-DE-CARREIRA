@@ -660,9 +660,19 @@ i++
 
 }
 
+# Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
+Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas e me conectar com outras empresas do ramo pretendido dividir experiencias 
 
+Entendi que ética em tecnologia significa pensar sobre as consequências de nossas ações tecnológicas e agir de maneira responsável, para contribuir com o conhecimento usando para minha evoluçao neste ramo 
 
+Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas e definir prioridades,a fazer cada tarefa de cada vez e nao tudo ao mesmo tempo sempre gerindo meu tempo e definindo meu melhores horarios
+
+Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas,fazendo uma comunidade de experiencias 
+
+Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.usando para diversas formas 
+
+Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista
 
 
 
